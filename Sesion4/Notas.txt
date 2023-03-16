@@ -1,0 +1,17 @@
+Cardiu
+
+
+ArrayAdapter 
+Pilla recursos de una interfaz
+Datos de un array en este caso
+Los enlaza e incluye en un contenedores de lista/spinner/...
+
+Librería picasso que gestiona librerías a través de urls
+
+Primera app
+Compra de ofertas de viajes
+
+Segunda app
+Recycler view (más eficiente que los dos adapter, porque se reserva memoria para ir refrescar información)
+La primera vista se integra en los viajes (Splash) y entraríamos en la lista de viajes
+
