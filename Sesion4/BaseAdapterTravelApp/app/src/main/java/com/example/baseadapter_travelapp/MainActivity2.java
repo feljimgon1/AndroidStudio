@@ -13,9 +13,9 @@ import androidx.cardview.widget.CardView;
 
 import java.util.List;
 
-public class MainActivity {
-    super();
-    setCotentView...
+public class MainActivity2 {
+    //super();
+    //setCotentView...
 
     //Recuperar gridview, crea adaptador y establecer el adaptador (setAdapter) al gridview
 }
@@ -60,7 +60,7 @@ class EnlaceAdapter extends BaseAdapter {
         imageView.setImageResource(listEnlaces.get(i).getResource());
         textView.setText(listEnlaces.get(i).getDescription());
         cardView.setOnClickListener(view1 -> context.startActivity(
-                new Intent(context, listEnlaces.get(i).getClass())
+              new Intent(context, listEnlaces.get(i).getClass())
         ));
 
         return view;

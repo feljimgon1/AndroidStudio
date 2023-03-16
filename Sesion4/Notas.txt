@@ -21,3 +21,17 @@ Además del Spinner visto anteriormente
 	- GridView
 
 ArrayAdapter vs BaseAdapter
+
+ViewHolder -> Layout -> Components
+
+Todo conectando con onBind (Adaptador)
+
+1- RecycleView
+2- Entity
+3- CardView
+4- Class ContactAdapter
+5- Generar el view holder
+6- Extends ViewHolder
+
+Algo Preference para store algo que se haya hecho
+Uso de Picasso/Skeleton
