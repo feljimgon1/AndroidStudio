@@ -1,6 +1,5 @@
 Cardiu
 
-
 ArrayAdapter 
 Pilla recursos de una interfaz
 Datos de un array en este caso
@@ -15,3 +14,10 @@ Segunda app
 Recycler view (más eficiente que los dos adapter, porque se reserva memoria para ir refrescar información)
 La primera vista se integra en los viajes (Splash) y entraríamos en la lista de viajes
 
+Componentes vistos anteriormente
+
+Además del Spinner visto anteriormente
+	- ListView
+	- GridView
+
+ArrayAdapter vs BaseAdapter
